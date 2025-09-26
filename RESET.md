@@ -47,6 +47,8 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 기기 Wi-Fi 연결을 눌러서 댁 내 Wi-Fi가 스캔되는 것을 잠시 기다린 후 2.4G Wi-Fi를 선택하고 비밀번호를 입력합니다. 잠시 뒤 성공 팝업이 뜨는 걸 확인합니다. **Wi-Fi 연결 여부에 O가 표시되는 것을 확인합니다.**
 
+![Screenshot_20250926_190339_Petstory](https://github.com/user-attachments/assets/dc08177d-00bb-4815-94db-c0a5c54c8162)
+
 <동영상 참고>
 
 [![Let's Reset Together](https://img.youtube.com/vi/gxeSqVt4UsU/0.jpg)](https://youtube.com/shorts/gxeSqVt4UsU?si=9akrmhWKmKqZep6F "Let's Reset Together")
