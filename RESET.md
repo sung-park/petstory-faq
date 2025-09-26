@@ -36,7 +36,7 @@ categories: [guide, petstory, troubleshooting]
 
 (동영상 참고)
 
-{% include youtube.html id="oXjg3TLdhiE" %}
+{% include youtube.html id="oXjg3TLdhiE" ratio="9:16"  %}
 <br>
 **3. 기기 변경**
 
@@ -46,7 +46,7 @@ categories: [guide, petstory, troubleshooting]
 
 (동영상 참고)
 
-{% include youtube.html id="jir495UfdhM" %}
+{% include youtube.html id="jir495UfdhM" ratio="9:16" %}
 <br>
 이후 배터리 레벨 및 블루투스가 '연결됨'으로 나오는지 확인합니다.
 
@@ -58,7 +58,7 @@ categories: [guide, petstory, troubleshooting]
 
 (동영상 참고)
 
-{% include youtube.html id="gxeSqVt4UsU" %}
+{% include youtube.html id="gxeSqVt4UsU" ratio="9:16" %}
 <br>
 **5. 홈 화면 반영 여부 확인**
 
