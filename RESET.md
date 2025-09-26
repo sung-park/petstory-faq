@@ -23,9 +23,11 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 **2. Pet Story 앱 데이터 초기화**
 
-설치된 Pet Story 앱의 데이터를 모두 제거합니다. 생성된 프로필 및 데이터는 서버에 그대로 남아있은비 걱정하지 않으셔도 됩니다.
-(TODO: 동영상 첨부)
- 
+설치된 Pet Story 앱의 데이터를 모두 제거합니다. 생성된 프로필 및 데이터는 서버에 그대로 남아있은비 걱정하지 않으셔도 됩니다. << 앱 롱키 - i 아이콘 - 저장공간 - 데이터 삭제 >>
+
+<동영상 참고>
+[![Let's Reset Together](https://img.youtube.com/vi/oXjg3TLdhiE/0.jpg)](https://youtube.com/shorts/oXjg3TLdhiE?si=9akrmhWKmKqZep6F "Let's Reset Together")
+
 **3. 기기 변경**
 
 << 앱 실행 - 마이 - 기기 관리 - 디바이스 변경>>을 실행합니다.
