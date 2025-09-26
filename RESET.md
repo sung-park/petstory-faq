@@ -1,4 +1,9 @@
-## layout: post title: "Pet Story 웨어러블 기기 초기화 가이드" date: 2025-09-26 20:00:00 +0900 categories: [guide, petstory, troubleshooting]
+---
+layout: post
+title: "Pet Story 웨어러블 기기 초기화 가이드"
+date: 2025-09-26 20:00:00 +0900
+categories: [guide, petstory, troubleshooting]
+---
 
 안녕하세요.
 
@@ -11,7 +16,9 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 기기에는 큰 버튼과 USB 파워 옆에 작은 버튼이 있습니다
 
-\<사진 참고\>
+<사진 참고>
+
+![20250926_180723_1](https://github.com/user-attachments/assets/8774d4d8-ea7c-4999-b064-3d032c680114)
 
 **1.1. 플래시 초기화**
 큰 버튼을 10초 정도 손가락으로 누릅니다. 기기에 저장된 데이터가 모두 삭제됩니다. (이 때 비프음이 발생하는데 소리가 좀 큽니다. 수정 예정입니다.)
@@ -19,27 +26,27 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 **1.2. 기기 재부팅**
 (잠시 뒤) 작은 버튼을 핀이나 볼펜 등으로 10초 정도 누릅니다. 기기가 재부팅 됩니다.
 
-\<동영상 참고\>
+<동영상 참고>
 
-\<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/ESZa8C2bWDM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+{% include youtube.html id="ESZa8C2bWDM" %}
 
 **2. Pet Story 앱 데이터 초기화**
 
-설치된 Pet Story 앱의 데이터를 모두 제거합니다. 생성된 프로필 및 데이터는 서버에 그대로 남아있으니 걱정하지 않으셔도 됩니다. \<\< 앱 롱키 - i 아이콘 - 저장공간 - 데이터 삭제 \>\>
+설치된 Pet Story 앱의 데이터를 모두 제거합니다. 생성된 프로필 및 데이터는 서버에 그대로 남아있으니 걱정하지 않으셔도 됩니다. << 앱 롱키 - i 아이콘 - 저장공간 - 데이터 삭제 >>
 
-\<동영상 참고\>
+<동영상 참고>
 
-\<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/oXjg3TLdhiE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+{% include youtube.html id="oXjg3TLdhiE" %}
 
 **3. 기기 변경**
 
-\<\< 앱 실행 - 마이 - 기기 관리 - 디바이스 변경\>\>을 실행합니다.
+<< 앱 실행 - 마이 - 기기 관리 - 디바이스 변경>>을 실행합니다.
 
 앱 내 가이드와 같이 기기의 큰 버튼을 2초 정도 눌러 잠시 푸른 색 LED가 점멸하는 것을 확인합니다. 이후 팝업이 뜨면 연결을 승인합니다.
 
-\<동영상 참고\>
+<동영상 참고>
 
-\<iframe width="560" height="315" src="https://www.google.com/search?q=https://www.youtube.com/embed/jir495UfdhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+{% include youtube.html id="jir495UfdhM" %}
 
 이후 배터리 레벨 및 블루투스가 '연결됨'으로 나오는지 확인합니다.
 
@@ -47,9 +54,11 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 기기 Wi-Fi 연결을 눌러서 댁 내 Wi-Fi가 스캔되는 것을 잠시 기다린 후 2.4G Wi-Fi를 선택하고 비밀번호를 입력합니다. 잠시 뒤 성공 팝업이 뜨는 걸 확인합니다. **Wi-Fi 연결 여부에 O가 표시되는 것을 확인합니다.**
 
-\<동영상 참고\>
+![Screenshot_20250926_190339_Petstory](https://github.com/user-attachments/assets/dc08177d-00bb-4815-94db-c0a5c54c8162)
 
-\<iframe width="560" height="315" src="[https://www.youtube.com/embed/gxeSqVt4UsU](https://www.google.com/search?q=https://www.youtube.com/embed/gxeSqVt4UsU)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\>\</iframe\>
+<동영상 참고>
+
+{% include youtube.html id="gxeSqVt4UsU" %}
 
 **5. 홈 화면 반영 여부 확인**
 
@@ -57,4 +66,4 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 **중간에 실패한 경우**
 
-중간에 실패한 경우, \<\< 마이 - PetStory 정보 \>\> 화면과 \<\< 마이 - 기기관리 - 펌웨어 버전\>\> 화면에 나온 정보를 알려주시거나 화면을 캡쳐해서 주시면 큰 도움이 될 것 같습니다.
+중간에 실패한 경우, << 마이 - PetStory 정보 >> 화면과 << 마이 - 기기관리 - 펌웨어 버전>> 화면에 나온 정보를 알려주시거나 화면을 캡쳐해서 주시면 큰 도움이 될 것 같습니다.
