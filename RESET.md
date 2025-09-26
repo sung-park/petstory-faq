@@ -39,22 +39,22 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 
 <동영상 참고>
 
-(TODO: 동영상 첨부)
+[![Let's Reset Together](https://img.youtube.com/vi/jir495UfdhM/0.jpg)](https://youtube.com/shorts/jir495UfdhM?si=9akrmhWKmKqZep6F "Let's Reset Together")
 
 이후 배터리 레벨 및 블루투스가 '연결됨'으로 나오는지 확인합니다.
 
 **4. 기기 Wi-Fi 연결**
 
-기기 Wi-Fi 연결을 눌러서 댁 내 Wi-Fi가 스캔되는 것을 잠시 기다린 후 2.4G Wi-Fi를 선택하고 비밀번호를 입력합니다. 잠시 뒤 성공 팝업이 뜨는 걸 확인합니다.
+기기 Wi-Fi 연결을 눌러서 댁 내 Wi-Fi가 스캔되는 것을 잠시 기다린 후 2.4G Wi-Fi를 선택하고 비밀번호를 입력합니다. 잠시 뒤 성공 팝업이 뜨는 걸 확인합니다. **Wi-Fi 연결 여부에 O가 표시되는 것을 확인합니다.**
 
-Wi-Fi 연결 여부에 O가 표시되는 것을 확인합니다.
+<동영상 참고>
+
+[![Let's Reset Together](https://img.youtube.com/vi/gxeSqVt4UsU/0.jpg)](https://youtube.com/shorts/gxeSqVt4UsU?si=9akrmhWKmKqZep6F "Let's Reset Together")
 
 **5. 홈 화면 반영 여부 확인**
 
-펫 웨어러블과 서버와 연결 시이 소요될 수 있으므로 한 1분 정도 기다린 다음, 웨어러블을 흔들었을 때 홈 화면의 려견의 행동이 변경되는 지 확인합니다.
+펫 웨어러블과 서버와 연결 시이 소요될 수 있으므로 한 1분 정도 기다린 다음, **웨어러블을 가볍게 흔들었을 때 홈 화면의 반려견의 행동이 변경되는 지 확인합니다.**
 
 **중간에 실패한 경우**
 
 중간에 실패한 경우, << 마이 - PetStory 정보 >> 화면과 << 마이 - 기기관리 - 펌웨어 버전>> 화면에 나온 정보를 알려주시거나 화면을 캡쳐해서 주시면 큰 도움이 될 것 같습니다.
-
- 
