@@ -13,8 +13,7 @@ Pet Story 웨어러블 기기 설정이 되지 않을 경우 전체적으로 초
 1.1. 플래시 초기화 - 큰 버튼을 10초 정도 손가락으로 누릅니다. 기기에 저장된 데이터가 모두 삭제됩니다. (이 때 비프음이 발생하는데 소리가 좀 큽니다. 수정 예정입니다.)
 
 1.2. 기기 재부팅 - (잠시 뒤) 작은 버튼을 핀이나 볼펜 등으로 10초 정도 누릅니다. 기기가 재부팅 됩니다.
-
-(TODO: 동영상 첨부)
+[![Let's Reset Together](http://img.youtube.com/vi/ESZa8C2bWDM/0.jpg)](http://www.youtube.com/watch?v=ESZa8C2bWDM "Let's Reset Together")
 
 **2. Pet Story 앱 데이터 초기화**
 
